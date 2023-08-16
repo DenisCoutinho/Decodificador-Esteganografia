@@ -10,5 +10,7 @@ Ou seja, na criptografia, os receptores sabem da existência das mensagens, por�
 
 Existem várias formas de esconder mensagens ou arquivos em imagens. Uma das técnicas possíveis é modificar alguns bits (menos relevantes) dos pixels da imagem, com as informações que se quer esconder. Por exemplo, a modificação do bit menos significativo de uma banda (red) de um pixel de uma imagem colorida nnão é perceptível ao olho humano. 
 
-A esteganoanálise dessa modificação, no entanto, não é difícil de se realizar a partir da comparação do arquivo original e do arquivo modificado. O ruído, calculado como a diferen¸ca desses dois arquivos é a mensagem codificada. O objetivo desse trabalho é explorar os conceitos de cores e de codificação e decodificação utilizados nos formatos de imagens.
+A esteganoanálise dessa modificação, no entanto, não é difícil de se realizar a partir da comparação do arquivo original e do arquivo modificado. O ruído, calculado como a diferen¸ca desses dois arquivos é a mensagem codificada. 
+
+O objetivo desse trabalho é explorar os conceitos de cores e de codificação e decodificação utilizados nos formatos de imagens.
 
