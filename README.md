@@ -14,3 +14,14 @@ A esteganoanálise dessa modificação, no entanto, não é difícil de se reali
 
 O objetivo desse trabalho é explorar os conceitos de cores e de codificação e decodificação utilizados nos formatos de imagens.
 
+# Instrução de Uso:
+
+O programa é chamado em linha de comando da seguinte forma:
+./decode <nome=arquivo=imagem>[.ppm]
+
+Por exemplo:
+
+./decode porto
+
+O programa gera o arquivo que está codificado na imagem, na mesma pasta onde o decodificador for executado
+
